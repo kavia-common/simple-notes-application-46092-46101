@@ -1,0 +1,10 @@
+{
+  "name": "Ocean Notes",
+  "short_name": "Notes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2563EB",
+  "description": "A simple notes app with local persistence.",
+  "icons": []
+}
